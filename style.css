@@ -1,0 +1,39 @@
+body {
+  padding-top: 70px; 
+  font-family: "Microsoft JhengHei", sans-serif;
+  color: #333;
+  line-height: 1.5;
+}
+
+.container {
+  margin-bottom: 40px;
+}
+
+section {
+  padding: 50px 0;
+}
+
+section h2 {
+  margin-bottom: 15px;
+}
+
+section p {
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+section img {
+  width: auto;
+  max-width: 500px;   
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto 20px auto; 
+}
+
+footer {
+  background-color: #f1f1f1;
+  padding: 15px 0;
+  text-align: center;
+  font-size: 0.9rem;
+}
